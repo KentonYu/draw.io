@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T05:31:33.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mcxYT4dseNh6191SA6b-" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T05:41:08.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="c5SDGOql9AD7KcU7H70E" version="20.0.4" type="github">
   <diagram id="5bPlMx0FGQEHzg21ZDcT" name="Page-1">
     <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,39 +16,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-1" value="房间" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="30" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="30" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-2" value="成员" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="210" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="210" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-5" value="牌局" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="30" y="220" width="80" height="80" as="geometry" />
+          <mxGeometry x="30" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OJDYcl9O9MaQ1fT2S2Vv-8" target="OJDYcl9O9MaQ1fT2S2Vv-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-8" value="创建房间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="399" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="OJDYcl9O9MaQ1fT2S2Vv-9" target="OJDYcl9O9MaQ1fT2S2Vv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-9" value="邀请成员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="399" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="OJDYcl9O9MaQ1fT2S2Vv-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="430" as="targetPoint" />
+            <mxPoint x="459" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-10" value="开始牌局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="399" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="OJDYcl9O9MaQ1fT2S2Vv-14" target="OJDYcl9O9MaQ1fT2S2Vv-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-14" value="结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="399" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="OJDYcl9O9MaQ1fT2S2Vv-16" target="OJDYcl9O9MaQ1fT2S2Vv-14">
           <mxGeometry relative="1" as="geometry" />
@@ -56,16 +56,31 @@
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="OJDYcl9O9MaQ1fT2S2Vv-16" target="OJDYcl9O9MaQ1fT2S2Vv-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="460" />
-              <mxPoint x="350" y="210" />
+              <mxPoint x="309" y="430" />
+              <mxPoint x="309" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-16" value="牌局1...N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="399" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-18" value="通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="399" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgFlat;strokeColor=#18211b;" vertex="1" parent="1">
+          <mxGeometry x="640" y="30" width="240" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iIconGrid;gridSize=3,3;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-25" value="新建房间" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iButton;strokeColor=#444444;fontColor=#ffffff;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;whiteSpace=wrap;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="370" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgFlat;strokeColor=#18211b;" vertex="1" parent="1">
+          <mxGeometry x="960" y="30" width="240" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="OJDYcl9O9MaQ1fT2S2Vv-28" value="新建房间" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iButton;strokeColor=#444444;fontColor=#ffffff;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;whiteSpace=wrap;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="370" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
